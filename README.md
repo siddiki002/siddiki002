@@ -1,7 +1,7 @@
 # Hi there 👋, Ammar here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919" />
+
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -17,7 +17,7 @@ Striving to get into development and learning best engineering practices
   
 ## 🌐 Socials
 
-<p><a href = "https://www.linkedin.com/in/muhammad-ammar-siddiqui-09b519221/"><img src = "https://img.shields.io/badge/-Ammar-Siddiqui-blue.svg?&style=plastic&logo=linkedin" alt="Linkedin"> </a></p>
+<p><a href = "https://www.linkedin.com/in/muhammad-ammar-siddiqui-09b519221/"><img src = "https://img.shields.io/badge/-Ammar-blue?style=plastic&logo=Linkedin" alt="Linkedin" /> </a> <a href = ""> </a></p>
 
 
 
