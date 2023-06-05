@@ -17,9 +17,27 @@ Striving to get into development and learning best engineering practices
   
 ## 🌐 Socials
 
-<p><a href = "https://www.linkedin.com/in/muhammad-ammar-siddiqui-09b519221/"><img src = "https://img.shields.io/badge/-Ammar-blue?style=plastic&logo=Linkedin" alt="Linkedin" /> </a> <a href = ""> </a></p>
+<p><a href = "https://www.linkedin.com/in/muhammad-ammar-siddiqui-09b519221/"><img src = "https://img.shields.io/badge/-Ammar-blue?style=plastic&logo=Linkedin" alt="Linkedin" /></a>
+  <a href = "mailto:ammarsiddiqui247@gmail.com"><img src = "https://img.shields.io/badge/-ammarsiddiqui247@gmail.com-black?style=plastic&logo=gmail" alt = "Gmail"/></a>
+  <a href = "https://www.hackerrank.com/ammarsiddiqui247?hr_r=1"><img src = "https://img.shields.io/badge/-@ammar-black?style=plastic&logo=hackerrank" /></a>
+  <a href = "https://leetcode.com/siddki02/"><img src = "https://img.shields.io/badge/-@ammar-lightyellow?style=plastic&logo=leetcode" /></a>
+</p>
 
+## Tech Stack 💻
 
+I am open to discussions/collaboration on the following tech stack. You can reach out to me using my socials
+<p>
+  <img src = "https://img.shields.io/badge/--black?style=plastic&logo=c" />
+  <img src = "https://img.shields.io/badge/-C++-black?style=plastic&logo=cplusplus" />
+  <img src = "https://img.shields.io/badge/-Python-green?style=plastic&logo=python" />
+  <img src = "https://img.shields.io/badge/-JavaScript-yellowgreen?style=plastic&logo=javascript"/>
+  <img src = "https://img.shields.io/badge/--black?style=plastic&logo=dotnet" />
+  
+  <img />
+  <img />
+  <img />
+  
+</p>
 
 
 
