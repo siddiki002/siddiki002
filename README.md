@@ -12,8 +12,8 @@ Striving to get into development and learning best engineering <br>practices
   - React JS
   - Express JS
 - 🧐 I am currently learning ...
-  - Nest JS
-  - GO
+  - Next JS
+  - React Native
   
 ## 🌐 Socials
 
